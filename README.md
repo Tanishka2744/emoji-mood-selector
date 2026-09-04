@@ -1,16 +1,39 @@
-# React + Vite
+# 😊 Emoji Mood Selector
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Emoji Mood Selector built with React.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 😊 5 different mood emojis
+- 🖱️ Click to select your mood
+- ✨ Selected mood gets highlighted
+- 📝 Dynamic mood message
+- 🎨 Smooth hover animations
+- 📱 Fully responsive design
 
-## React Compiler
+## 🛠️ Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- CSS
+- JavaScript
+- Vite
 
-## Expanding the ESLint configuration
+## 🧠 React Concepts Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- useState
+- onClick events
+- Conditional rendering
+- Dynamic classes
+- Array `.map()`
+
+## 🚀 How It Works
+
+1. Choose an emoji that matches your mood.
+2. The selected emoji gets highlighted.
+3. A message appears based on your selected mood.
+
+## 👩‍💻 Author
+
+**Tanishka Khandelwal**
+
+- GitHub: Tanishka2744
